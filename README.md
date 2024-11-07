@@ -9,8 +9,6 @@ Welcome to my GitHub profile! I'm passionate about building projects that showca
 
 [![ArkaD-23's GitHub | Stats](https://stats.quira.sh/ArkaD-23/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=ArkaD-23)
 
-[![ArkaD-23's GitHub | Languages Over Time](https://stats.quira.sh/ArkaD-23/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=ArkaD-23)
-
 ### 📫 How to Reach Me
 Feel free to reach out via [LinkedIn](https://linkedin.com/in/yourusername) or by opening an issue here on GitHub.
 
