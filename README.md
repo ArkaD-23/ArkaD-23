@@ -5,9 +5,7 @@ Welcome to my GitHub profile! I'm passionate about building projects that showca
 ### 👨‍💻 About Me
 - 🎓 Currently studying at **NIT Durgapur**.
 - 🛠 Working on personal projects to enhance my CV and develop my expertise in various areas of software development.
-- 🚀 Skilled in **Java**, **JavaScript**, **HTML**, **React.js**, **Node.js**, **MERN stack**, and **Next.js**.
-
-[![ArkaD-23's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArkaD-23)](https://github.com/ArkaD-23/github-readme-stats)
+- 🚀 Skilled in **Java**, **Spring Boot**, **JavaScript**, **HTML**, **React.js**, **Node.js**, **MERN stack**, and **Next.js**.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArkaD-23&layout=compact&theme=radical)
 
