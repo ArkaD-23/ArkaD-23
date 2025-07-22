@@ -9,6 +9,8 @@ Welcome to my GitHub profile! I'm passionate about building projects that showca
 
 [![ArkaD-23's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArkaD-23)](https://github.com/ArkaD-23/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev123&layout=compact&theme=radical)
+
 ### 📫 How to Reach Me
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/arkaprava-dhar-41b9b0279/) or by opening an issue here on GitHub.
 
