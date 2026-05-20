@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm passionate about building projects that showca
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ArkaD-23/ArkaD-23/master/profile-summary-card-output/radical/1-stats.svg" alt="Overall Stats" width="815" />
+  <img src="https://raw.githubusercontent.com/ArkaD-23/ArkaD-23/master/profile-summary-card-output/radical/3-stats.svg" alt="Overall Stats" width="815" />
 </p>
 
 ---
