@@ -5,12 +5,12 @@ Welcome to my GitHub profile! I'm passionate about building projects that showca
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArkaD-23&theme=radical" alt="Profile Details" width="400" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArkaD-23&theme=radical" alt="Most Committed Languages" width="400" />
+  <img src="./profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details" width="400" />
+  <img src="./profile-summary-card-output/radical/2-most-commit-language.svg" alt="Most Committed Languages" width="400" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArkaD-23&theme=radical" alt="Overall Stats" width="815" />
+  <img src="./profile-summary-card-output/radical/1-stats.svg" alt="Overall Stats" width="815" />
 </p>
 
 ---
