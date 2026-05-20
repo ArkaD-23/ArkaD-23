@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I'm passionate about building projects that showca
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArkaD-23&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="Arka's Stats" height="195px" />
-  <img src="https://raw.githubusercontent.com/ArkaD-23/ArkaD-23/master/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Most Committed Languages" height="195px" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArkaD-23&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true" alt="Arka's Stats" height="195px" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArkaD-23&layout=compact&theme=radical&hide_border=true&langs_count=6&hide=html,css" alt="Top Languages" height="195px" />
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm passionate about building projects that showca
 ### 👨‍💻 About Me
 - 🎓 Currently studying at **NIT Durgapur**.
 - 🛠 Working on personal projects to enhance my CV and develop my expertise in various areas of software development.
-- 🚀 Skilled in **Java**, **Spring Boot**, **JavaScript**, **HTML**, **React.js**, **Node.js**, **MERN stack**, and **Next.js**.
+- 🚀 Skilled in **Java**, **Spring Boot**, **JavaScript**, **Python**, **HTML**, **React.js**, **Node.js**, **MERN stack**, and **Next.js**.
 
 ---
 
