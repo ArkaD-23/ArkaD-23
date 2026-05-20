@@ -6,19 +6,9 @@ Welcome to my GitHub profile! I'm passionate about building projects that showca
 
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/ArkaD-23/ArkaD-23/master/profile-summary-card-output/react/0-profile-details.svg" alt="Profile Details" width="400" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://raw.githubusercontent.com/ArkaD-23/ArkaD-23/master/profile-summary-card-output/react/2-most-commit-language.svg" alt="Most Committed Languages" width="400" />
   </a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://raw.githubusercontent.com/ArkaD-23/ArkaD-23/master/profile-summary-card-output/react/3-stats.svg" alt="Overall Stats" width="815" />
-  </a>
-</p>
-
 <p align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://raw.githubusercontent.com/ArkaD-23/ArkaD-23/master/profile-summary-card-output/react/1-repos-per-language.svg" alt="Repositories per Language" width="400" />
