@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm passionate about building projects that showcase my skills and serve as a portfolio for my career goals.
 
-### 📊 My GitHub Stats
+### 📊 My GitHub Stats (Includes Private Repos)
 
 <p align="center">
   <img src="./profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details" width="400" />
