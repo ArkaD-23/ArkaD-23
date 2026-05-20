@@ -4,11 +4,14 @@ Welcome to my GitHub profile! I'm passionate about building projects that showca
 
 ### 📊 My GitHub Stats
 
-![Arka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArkaD-23&show_icons=true&theme=radical&count_private=true&hide_border=true)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArkaD-23&theme=radical" alt="Profile Details" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArkaD-23&theme=radical" alt="Most Committed Languages" width="400" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArkaD-23&layout=compact&theme=radical&hide_border=true&langs_count=6)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArkaD-23&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArkaD-23&theme=radical" alt="Overall Stats" width="815" />
+</p>
 
 ---
 
