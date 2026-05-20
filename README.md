@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about building projects that showca
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ArkaD-23&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true" alt="Arka's Stats" height="195px" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArkaD-23&layout=compact&theme=radical&hide_border=true&langs_count=6&hide=html,css" alt="Top Languages" height="195px" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ArkaD-23&layout=compact&theme=radical&count_private=true&hide_border=true&langs_count=6&hide=html,css" alt="Top Languages" height="195px" />
 </p>
 
 <p align="center">
