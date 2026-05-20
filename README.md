@@ -5,12 +5,27 @@ Welcome to my GitHub profile! I'm passionate about building projects that showca
 ### 📊 My GitHub Stats (Includes Private Repos)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ArkaD-23/ArkaD-23/master/profile-summary-card-output/radical/0-profile-details.svg" alt="Profile Details" width="400" />
-  <img src="https://raw.githubusercontent.com/ArkaD-23/ArkaD-23/master/profile-summary-card-output/radical/2-most-commit-language.svg" alt="Most Committed Languages" width="400" />
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/ArkaD-23/ArkaD-23/master/profile-summary-card-output/react/0-profile-details.svg" alt="Profile Details" width="400" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/ArkaD-23/ArkaD-23/master/profile-summary-card-output/react/2-most-commit-language.svg" alt="Most Committed Languages" width="400" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ArkaD-23/ArkaD-23/master/profile-summary-card-output/radical/3-stats.svg" alt="Overall Stats" width="815" />
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/ArkaD-23/ArkaD-23/master/profile-summary-card-output/react/3-stats.svg" alt="Overall Stats" width="815" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/ArkaD-23/ArkaD-23/master/profile-summary-card-output/react/1-repos-per-language.svg" alt="Repositories per Language" width="400" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/ArkaD-23/ArkaD-23/master/profile-summary-card-output/react/4-productive-time.svg" alt="Productive Time" width="400" />
+  </a>
 </p>
 
 ---
